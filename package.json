@@ -1,0 +1,11 @@
+{
+  "title": "js-mtl-2014-08-12",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nitriques/js-mtl-2014-08-12.git"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
