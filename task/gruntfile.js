@@ -10,6 +10,6 @@ module.exports = function (grunt) {
 		}
 	});
 	grunt.registerTask('hello','Task description', function () {
-		grunt.log.writeln('Hello async world!');
+		grunt.log.writeln('Hello world!');
 	});
 };
