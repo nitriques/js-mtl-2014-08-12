@@ -7,7 +7,7 @@
 Code snippets for my talk about [Gruntjs](http://gruntjs.com/)
 at [js-montreal](http://js-montreal.org/)
 
-Sildes: <https://speakerdeck.com/nitriques>
+Sildes: <https://speakerdeck.com/nitriques/build-your-own-grunt-task>
 
 ## License
 
