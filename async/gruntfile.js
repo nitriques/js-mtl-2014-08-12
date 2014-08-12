@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 	});
 	grunt.registerTask('hello','Task description', function () {
 		var done = this.async(); // creates a async callback
-		// fake sync operation
+		// fake async operation
 		setTimeout(function async() {
 			grunt.log.writeln('Hello async world!');
 			done(true); // call the callback with success boolean parameter
